@@ -7,11 +7,6 @@
     gap: 20px;
 }
 
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 .home {
     display: flex;
@@ -29,6 +24,5 @@
 .button {
     background-color: lightgrey;
     gap: 300px;
-display: flex;
-    justify-content: cente;
 }
+.background{background-color: grey;}
